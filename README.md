@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="600" src="ezgif.com-gif-maker.gif">
+<img align="center" alt="Coding" width="600" src="ezgif.com-gif-maker.gif">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NailUspanov&theme=radical&hide=issues,stars&show_icons=true&hide_border=true&card_width=200)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NailUspanov&hide=html,css&theme=radical&card_width=300&height=100l&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
