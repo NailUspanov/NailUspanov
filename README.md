@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NailUspanov&theme=tokyonight&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NailUspanov&theme=radical&hide=issues,stars&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NailUspanov&hide=html,css&theme=radical&card_width=400&height=100l&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <p align="center"> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NaIlUspanov&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) </p>
+
 
 <!--
 **NailUspanov/NailUspanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
